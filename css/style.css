@@ -1,0 +1,39 @@
+body{
+    width: 1100px;
+}
+
+header{
+    background-color: rgba(78,160,255,255);
+    height: 100px;
+    background-image: url("../img/pattern.png");
+    background-repeat: repeat-x;
+    }
+
+#logo{
+    width: 150px;
+}
+
+h1{
+    margin-bottom: 0;
+}
+
+#publisher {
+    color: rgba(35,170,229,255);
+}
+
+.credits {
+    color: rgba(149,149,149,255);
+}
+
+#immagini{
+    margin-top: 30px;
+}
+
+.credit-photo{
+    font-size: 12px;
+}
+
+#evidenziato{
+    background-color: yellow;
+}
+
